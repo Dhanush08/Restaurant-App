@@ -1,5 +1,8 @@
 A restaurant page, ensuring it is user-friendly and visually appealing.
 
+website link :
+https://dhanush-restaurant-app.netlify.app/
+
 #### Mobile Interface [WORK IN PROGRESS]
 
 <a href="https://res.cloudinary.com/dupvp9gj9/image/upload/v1688464567/Restaurant_page_movie-view_dqv1fl.png" target=_blank_>
