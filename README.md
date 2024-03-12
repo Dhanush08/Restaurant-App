@@ -1,7 +1,7 @@
 A restaurant page, ensuring it is user-friendly and visually appealing.
 
 website link :
-https://dhanush-restaurant-app.netlify.app/
+[https://dhanush-restaurant-app.netlify.app/](https://dhanrestapp1.ccbp.tech/)
 
 #### Mobile Interface [WORK IN PROGRESS]
 
