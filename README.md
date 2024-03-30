@@ -1,7 +1,7 @@
 A restaurant page, ensuring it is user-friendly and visually appealing.
 
 website link :
-(https://dhanrestapp1.ccbp.tech/)
+https://dhkrestapp.ccbp.tech/
 
 #### Mobile Interface [WORK IN PROGRESS]
 
